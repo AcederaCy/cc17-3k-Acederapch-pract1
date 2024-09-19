@@ -1,0 +1,9 @@
+<resources>
+    <string name="logo_content_description">Logo</string>
+    <string name="cyrine_acedera">Cyrine Acedera</string>
+    <string name="network_security_manager">Network Security Manager</string>
+    <string name="email_icon_content_description">Email Icon</string>
+    <string name="email_address">acederacy@gmail.com</string>
+    <string name="phone_icon_content_description">Phone Icon</string>
+    <string name="phone_number">+639706310005</string>
+</resources>
